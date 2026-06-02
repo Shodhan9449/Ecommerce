@@ -49,12 +49,6 @@
   <h2>👥 Contributors</h2>
 </div>
 
-<ul style="list-style:none;animation:fadeIn 2s infinite alternate;">
-  <li>✨ <a href="https://github.com/Shashidharak89">@Shashidharak89</a> (Shashidhara K)</li>
-  <li>⚡ <a href="https://github.com/Prakashmonis05">@Prakashmonis05</a> (Prakash Monis)</li>
-  <li>🔥 <a href="https://github.com/sankethkul">@sankethkul</a> (Sanketh Kul)</li>
-</ul>
-
 <hr/>
 
 
